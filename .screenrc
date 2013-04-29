@@ -1,1 +1,2 @@
 hardstatus alwayslastline "%{rY} %-Lw%{= kr}%{= W}|%t|%{rk}%{rY}%+Lw %< %= %{Yr}%{= YB} %m/%d %c:%s %{-}"
+defscrollback 5000
