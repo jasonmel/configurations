@@ -1,0 +1,8 @@
+[user]
+	name = jasonmel
+	email = jasonmel@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = true
+
