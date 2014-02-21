@@ -1,1 +1,3 @@
 PS1="[\u@\h:\w] $ "
+HISTSIZE=1500
+HISTFILESIZE=1500
